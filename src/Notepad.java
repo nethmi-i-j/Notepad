@@ -44,7 +44,7 @@ public class Notepad {
         aboutItem.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
-                JOptionPane.showMessageDialog(null,"This is an info message!\nJohn  16698");
+                JOptionPane.showMessageDialog(null,"This is an info message!\nNethmi  s16698");
             }
         });
 
