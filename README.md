@@ -1,6 +1,6 @@
 ## Notepad (Windows Desktop Application)
 
-### It provides a simple user friendly text editor with extended features. It was developed using Java Swing class.
+### It provides a simple user friendly text editor with extended features. It was developed using Java Swing.
 
 ## Features.
 
